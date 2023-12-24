@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ZMD3rOYkAKCfA4v7InKona1LbfyAnSHO2K4xtMvMsec7K+HkoQu5JGP1PZ1i2TcrNM6Tu0wsO4YUny0yQQmKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\evsty_z2oxnoi\\source\\repos\\HW4\\MyHTTPServer_1\\MyHTTPServer_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evsty_z2oxnoi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\evsty_z2oxnoi\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\evsty_z2oxnoi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\evsty_z2oxnoi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
