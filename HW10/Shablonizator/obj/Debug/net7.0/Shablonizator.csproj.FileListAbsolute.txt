@@ -1,0 +1,14 @@
+C:\Users\evsty_z2oxnoi\source\repos\Shablonizator\Shablonizator\bin\Debug\net7.0\Shablonizator.exe
+C:\Users\evsty_z2oxnoi\source\repos\Shablonizator\Shablonizator\bin\Debug\net7.0\Shablonizator.deps.json
+C:\Users\evsty_z2oxnoi\source\repos\Shablonizator\Shablonizator\bin\Debug\net7.0\Shablonizator.runtimeconfig.json
+C:\Users\evsty_z2oxnoi\source\repos\Shablonizator\Shablonizator\bin\Debug\net7.0\Shablonizator.dll
+C:\Users\evsty_z2oxnoi\source\repos\Shablonizator\Shablonizator\bin\Debug\net7.0\Shablonizator.pdb
+C:\Users\evsty_z2oxnoi\source\repos\Shablonizator\Shablonizator\obj\Debug\net7.0\Shablonizator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evsty_z2oxnoi\source\repos\Shablonizator\Shablonizator\obj\Debug\net7.0\Shablonizator.AssemblyInfoInputs.cache
+C:\Users\evsty_z2oxnoi\source\repos\Shablonizator\Shablonizator\obj\Debug\net7.0\Shablonizator.AssemblyInfo.cs
+C:\Users\evsty_z2oxnoi\source\repos\Shablonizator\Shablonizator\obj\Debug\net7.0\Shablonizator.csproj.CoreCompileInputs.cache
+C:\Users\evsty_z2oxnoi\source\repos\Shablonizator\Shablonizator\obj\Debug\net7.0\Shablonizator.dll
+C:\Users\evsty_z2oxnoi\source\repos\Shablonizator\Shablonizator\obj\Debug\net7.0\refint\Shablonizator.dll
+C:\Users\evsty_z2oxnoi\source\repos\Shablonizator\Shablonizator\obj\Debug\net7.0\Shablonizator.pdb
+C:\Users\evsty_z2oxnoi\source\repos\Shablonizator\Shablonizator\obj\Debug\net7.0\Shablonizator.genruntimeconfig.cache
+C:\Users\evsty_z2oxnoi\source\repos\Shablonizator\Shablonizator\obj\Debug\net7.0\ref\Shablonizator.dll
