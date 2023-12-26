@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyHTTPServer_1", "MyHTTPServer_1\MyHTTPServer_1.csproj", "{D4F56BEB-34F6-45E7-ABB7-AFB3BE4D6A2A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyORM", "..\Data\MyORM\MyORM.csproj", "{5A71F28A-B8A9-4ABB-ACFD-74AA0DF7A76B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4F56BEB-34F6-45E7-ABB7-AFB3BE4D6A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4F56BEB-34F6-45E7-ABB7-AFB3BE4D6A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4F56BEB-34F6-45E7-ABB7-AFB3BE4D6A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F56BEB-34F6-45E7-ABB7-AFB3BE4D6A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A71F28A-B8A9-4ABB-ACFD-74AA0DF7A76B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A71F28A-B8A9-4ABB-ACFD-74AA0DF7A76B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A71F28A-B8A9-4ABB-ACFD-74AA0DF7A76B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A71F28A-B8A9-4ABB-ACFD-74AA0DF7A76B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {092428B5-E4EA-4C79-94A5-000D970D611D}
+	EndGlobalSection
+EndGlobal
